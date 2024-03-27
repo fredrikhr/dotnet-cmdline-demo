@@ -1,0 +1,4 @@
+[submodule ".submodules/dotnet-command-line-api"]
+	path = .submodules/dotnet-command-line-api
+	url = https://github.com/dotnet/command-line-api.git
+	branch = main
